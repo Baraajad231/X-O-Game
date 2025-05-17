@@ -4,11 +4,11 @@ This project forced me to conduct thorough research to avoid operational errors 
 I think i can do good projects like this or better in future
 
 ## ScreenShots
-Here how the app looks when we run it.
+Here how the app looks when we run it, we have scores board and we have two diabeld buttons to reset and to restart the game, when the reslut of the round appears under scores board they get actived. 
 
 ![‏‏لقطة الشاشة (1)](https://github.com/user-attachments/assets/84b3f0ac-f378-41bd-8568-8f3d3fb77d92)
 
-Tis is how the game looks when we play. 
+This is how the game looks when we play. 
 
 ![‏‏لقطة الشاشة (7)](https://github.com/user-attachments/assets/1a8c3926-b59e-4143-ba4e-b5d0fda3c384)
 
