@@ -13,7 +13,7 @@ Tis is how the game looks when we play.
 ![‏‏لقطة الشاشة (7)](https://github.com/user-attachments/assets/1a8c3926-b59e-4143-ba4e-b5d0fda3c384)
 
 
-When you got score the color of the edges of the three squares where you achieved victory chang to green and print "You Won" on scores board.
+When you got score the color of the edges of the three squares where you achieved victory chang to green, print You Won on scores board, the reset and restart buttons are actived , disabel the squre buttons in play board.
 
 ![‏‏لقطة الشاشة (2)](https://github.com/user-attachments/assets/db006807-d6a2-40f5-8078-9a4d20115730)
 
