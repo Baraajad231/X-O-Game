@@ -44,6 +44,14 @@ Despite all of that, I was determined to complete this course and submit my fina
 
 ---
 
+## Technologies Used
+
+- Python 3
+- Tkinter (built-in Python GUI library)
+- Pillow (for image support in Tkinter)
+
+---
+
 ## ScreenShots
 Here how the app looks when we run it, we have scores board and we have two diabeld buttons to reset and to restart the game, when the reslut of the round appears under scores board they get actived. 
 
