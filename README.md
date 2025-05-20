@@ -38,9 +38,12 @@ Despite all of that, I was determined to complete this course and submit my fina
 
 ## Files Description
 
-- `main.py` – The main Python file that runs the game logic and GUI.
+- `xo.py` – The main Python file that runs the game logic and GUI.
 - `images/` – Folder containing the image assets for X and O.
 - `README.md` – This file. Contains a detailed explanation of the project.
+- `xo.pdf` – This file. Contains a flow chart determind how the game run.
+- `xo.ico` – The icon of the game.
+
 
 ---
 
