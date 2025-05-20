@@ -2,7 +2,48 @@
 X,O game it is famous with (Tic-Tac-Toe) 
 This project forced me to conduct thorough research to avoid operational errors and this greatly enhanced my experience.
 I think i can do good projects like this or better in future
-#### Video Demo: https://youtu.be/GSh9pLEDh88
+
+### Video Demo  
+[Click here to watch the demo](https://youtu.be/GSh9pLEDh88)  
+
+---
+
+## Description
+
+Welcome to my final project for CS50x – **X-O Game**.
+
+This project is a graphical version of the classic **Tic Tac Toe** game (locally called "X-O") developed in **Python** using the **Tkinter** library. It allows the user to play against a simple computer opponent that makes random moves.
+
+I chose this project because I was deeply interested in Python and wanted to explore its capabilities beyond the basics. I spent time learning about graphical user interfaces (GUI) and how to make interactive applications. This project helped me understand Python more deeply and gave me confidence in building complete software applications.
+
+---
+
+## Challenges
+
+While developing this project, I faced significant challenges due to the ongoing war in **Gaza Strip, Palestine**. There were frequent power outages, unstable internet access, and periods of evacuation. These difficulties caused delays and made it very hard to study and code consistently.
+
+Despite all of that, I was determined to complete this course and submit my final project. This game took me longer than expected, but I was committed to learning and finishing what I started. I hope this project reflects my effort and dedication under extremely hard circumstances.
+
+---
+
+## Features
+
+- GUI-based Tic Tac Toe game
+- Simple, clean interface using Tkinter
+- Play against a computer that plays randomly
+- Visual feedback with images for X and O
+- Reset and replay support
+
+---
+
+## Files Description
+
+- `main.py` – The main Python file that runs the game logic and GUI.
+- `images/` – Folder containing the image assets for X and O.
+- `README.md` – This file. Contains a detailed explanation of the project.
+
+---
+
 ## ScreenShots
 Here how the app looks when we run it, we have scores board and we have two diabeld buttons to reset and to restart the game, when the reslut of the round appears under scores board they get actived. 
 
